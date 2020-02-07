@@ -1,3 +1,2 @@
-# Beam study
+# python from Data Guru
 
-This project is for the study of beam
